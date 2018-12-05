@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\CountWords\CountWords\bin\Debug\CountWords.exe.config
+C:\Users\Can\Desktop\CountWords\CountWords\bin\Debug\CountWords.exe
+C:\Users\Can\Desktop\CountWords\CountWords\bin\Debug\CountWords.pdb
+C:\Users\Can\Desktop\CountWords\CountWords\obj\Debug\CountWords.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\CountWords\CountWords\obj\Debug\CountWords.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\CountWords\CountWords\obj\Debug\CountWords.exe
+C:\Users\Can\Desktop\CountWords\CountWords\obj\Debug\CountWords.pdb
